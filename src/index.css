@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  overflow-x: hidden;
+}
+
+#imdb-logo{
+  color: #f3ce13;
+}
+
+#react-logo{
+  color: #61dbfb;
+}
+
+.Landing{
+  min-height: 70vh;
+}
